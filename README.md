@@ -1,8 +1,8 @@
 # exemploejb
 Exemplo didático de um Enterprise Java Bean (EJB)
 
-## HelloWorldEJB - Pasta com arquivos do EJB
+## HelloWorldEJB - Projeto do componente EJB
 
 * Fazer o deploy para o servidor de componentes (Ex: GlassFish)
 
-## HelloWorldEJBTester - Pasta para testar o EJB
+## HelloWorldEJBTester - Projeto para testar o EJB
